@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mach50</title>
+    <link>https://www.mach50.com/posts/</link>
+    <description>Recent content in Posts on Mach50</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Tue, 29 Jun 2021 06:53:13 -0600</lastBuildDate>
+    
+        <atom:link href="https://www.mach50.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.mach50.com/posts/my-first-post/</link>
+      <pubDate>Tue, 29 Jun 2021 06:53:13 -0600</pubDate>
+      
+      <guid>https://www.mach50.com/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

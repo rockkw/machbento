@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.mach50.com/</loc>
+    <lastmod>2021-06-29T06:53:13-06:00</lastmod>
+  </url><url>
+    <loc>https://www.mach50.com/posts/my-first-post/</loc>
+    <lastmod>2021-06-29T06:53:13-06:00</lastmod>
+  </url><url>
+    <loc>https://www.mach50.com/posts/</loc>
+    <lastmod>2021-06-29T06:53:13-06:00</lastmod>
+  </url><url>
     <loc>https://www.mach50.com/bento-hugo-theme/</loc>
   </url><url>
     <loc>https://www.mach50.com/categories/</loc>
-  </url><url>
-    <loc>https://www.mach50.com/</loc>
   </url><url>
     <loc>https://www.mach50.com/tags/</loc>
   </url><url>
