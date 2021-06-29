@@ -1,6 +1,6 @@
 theme = "bento"
 languageCode = "en-us"
-baseurl = "https://www.example.com/"
+baseurl = "https://www.mach50.com"
 title = "Mach50"
 
 author = "Rock Whitney"
@@ -83,7 +83,7 @@ disqusShortname = "bento-hugo-theme"
 
   [[menu.main]]
       name = "Source code"
-      url = "https://github.com/leonardofaria/bento"
+      url = "https://github.com/rockkw/machbento"
       weight = 1
 
 
