@@ -17,7 +17,13 @@
       <pubDate>Tue, 29 Jun 2021 06:53:13 -0600</pubDate>
       
       <guid>https://www.mach50.com/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;app-body&#34;&gt;
+    &lt;button id=&#34;MutationEventButton&#34;&gt;Add data&lt;/button&gt;
+    &lt;div id=&#34;MutationResult&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;QueryResult&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;SubscriptionResult&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;src/main.bundle.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
   </channel>
