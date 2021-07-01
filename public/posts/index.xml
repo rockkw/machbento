@@ -12,17 +12,17 @@
     
     
     <item>
-      <title>Images Post</title>
+      <title>About me</title>
       <link>https://www.mach50.com/posts/images-post/</link>
       <pubDate>Thu, 01 Jul 2021 14:00:08 -0600</pubDate>
       
       <guid>https://www.mach50.com/posts/images-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mach50.com/rockaws.jpg&#34; alt=&#34;demo&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mach50.com/images/rockaws.jpeg&#34; alt=&#34;About me&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>test 1</title>
+      <title>Testing AWS Amplify in Hugo</title>
       <link>https://www.mach50.com/posts/my-first-post/</link>
       <pubDate>Tue, 29 Jun 2021 06:53:13 -0600</pubDate>
       
