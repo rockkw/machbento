@@ -1,5 +1,5 @@
 ---
-title: "test 1"
+title: "Testing AWS Amplify in Hugo"
 date: 2021-06-29T06:53:13-06:00
 draft: false
 ---
