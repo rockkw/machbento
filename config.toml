@@ -37,7 +37,7 @@ disqusShortname = "bento-hugo-theme"
   copyright = "Copyright © 2020 Someone"
 
   # Image in the homepage. You can setup a different image for social media
-  cover = "images/vancouver.jpg"
+  cover = "images/bali-beaches-sunset.jpeg"
   ogImage = "images/og_image.jpg"
 
   # Social media usernames
