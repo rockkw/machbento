@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mach50</title>
@@ -6,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 14:00:08 -0600</lastBuildDate>
-    
-        <atom:link href="https://www.mach50.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 02 Jul 2021 15:43:14 -0600</lastBuildDate><atom:link href="https://www.mach50.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awsrock</title>
+      <link>https://www.mach50.com/posts/awsrock/</link>
+      <pubDate>Fri, 02 Jul 2021 15:43:14 -0600</pubDate>
+      
+      <guid>https://www.mach50.com/posts/awsrock/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About me</title>
@@ -17,8 +23,7 @@
       <pubDate>Thu, 01 Jul 2021 14:00:08 -0600</pubDate>
       
       <guid>https://www.mach50.com/posts/images-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mach50.com/images/rockaws.jpeg&#34; alt=&#34;About me&#34;&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,15 +32,9 @@
       <pubDate>Tue, 29 Jun 2021 06:53:13 -0600</pubDate>
       
       <guid>https://www.mach50.com/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;button id=&#34;MutationEventButton&#34; onclick=&#34;addData()&#34;&gt;Test button&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button onclick=&#34;addData()&#34;&gt;Federated Sign In&lt;/button&gt;&lt;/p&gt;
-&lt;div class=&#34;app-body&#34;&gt;
-    &lt;button id=&#34;MutationEventButton&#34;&gt;Add data&lt;/button&gt;
-    &lt;div id=&#34;MutationResult&#34;&gt;&lt;/div&gt;
-    &lt;div id=&#34;QueryResult&#34;&gt;&lt;/div&gt;
-    &lt;div id=&#34;SubscriptionResult&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;script src=&#34;src/main.bundle.js&#34;&gt;&lt;/script&gt;</description>
+      <description>Test button
+Federated Sign In
+Add data     </description>
     </item>
     
   </channel>
