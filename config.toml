@@ -1,4 +1,5 @@
 theme = "bento"
+#theme = "coder"
 languageCode = "en-us"
 baseurl = "https://www.mach50.com/"
 title = "Mach50"
@@ -73,7 +74,7 @@ disqusShortname = "bento-hugo-theme"
 [menu]
   [[menu.main]]
       name = "About"
-      url = "/about"
+      url = "/posts/images-post/"
       weight = 1
 
   [[menu.main]]
