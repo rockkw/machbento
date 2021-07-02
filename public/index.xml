@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mach50</title>
@@ -6,18 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 14:00:08 -0600</lastBuildDate>
-    
-        <atom:link href="https://www.mach50.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Jul 2021 14:00:08 -0600</lastBuildDate><atom:link href="https://www.mach50.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Posts</title>
-      <link>https://www.mach50.com/posts/</link>
+      <title>About me</title>
+      <link>https://www.mach50.com/posts/images-post/</link>
       <pubDate>Thu, 01 Jul 2021 14:00:08 -0600</pubDate>
       
-      <guid>https://www.mach50.com/posts/</guid>
+      <guid>https://www.mach50.com/posts/images-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Testing AWS Amplify in Hugo</title>
+      <link>https://www.mach50.com/posts/my-first-post/</link>
+      <pubDate>Tue, 29 Jun 2021 06:53:13 -0600</pubDate>
+      
+      <guid>https://www.mach50.com/posts/my-first-post/</guid>
+      <description>Test button
+Federated Sign In
+Add data     </description>
     </item>
     
   </channel>
