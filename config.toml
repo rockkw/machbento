@@ -30,8 +30,8 @@ disqusShortname = "bento-hugo-theme"
 
 [params]
   # Show intro in the home page (with headline and description)
-  intro = true
-  headline = "This is a Mach50"
+  intro = false
+  headline = "Mach50"
   description = "A minimalist theme"
 
   # Copyright note in the footer
